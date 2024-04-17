@@ -1,3 +1,2 @@
-# hello everyone 
-## this is suppose to be the first
+#hello everyone 
 git is exciting
